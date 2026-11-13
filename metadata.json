@@ -1,0 +1,10 @@
+{
+  "name": "AI Voice Health Analyzer",
+  "description": "ระบบปัญญาประดิษฐ์สำหรับวิเคราะห์เสียง เพื่อประเมินความเสี่ยงและความเป็นไปได้ของโรคเบื้องต้น",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
